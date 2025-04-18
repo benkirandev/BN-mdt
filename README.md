@@ -1,2 +1,2 @@
-# qb-mdt
+# BN-mdt
 devlopment script fivem 
