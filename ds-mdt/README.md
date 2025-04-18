@@ -3,8 +3,6 @@ MDT For QBCore and ESX by Dolaji's Scripts
 [Installation]
 Docs: https://docs.dolajiscripts.com/resources/ds-mdt
 
-[Report a bug]
-If you encounter a bug/issue with the resource, feel free to join the official discord and submit a ticket! (https://discord.gg/KRXuF3j).
 
 [Notes]
 This resource is targeted toward ESX and QBCore(New) servers. However, with enough effort, it is possible to get this to work with
